@@ -4,13 +4,13 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
-public class insta {
+public class Youtube {
   @Test
-  public void instaweb() throws InterruptedException {
+  public void utubeweb() throws InterruptedException {
 	  
  WebDriver driver = new ChromeDriver();
 	  
-	  driver.get("https://www.instagram.com/");
+	  driver.get("https://www.youtube.com/");
 	 Thread.sleep(1000);
 	  driver.close();
   }
