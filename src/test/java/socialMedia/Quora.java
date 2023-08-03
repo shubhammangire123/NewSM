@@ -10,7 +10,7 @@ public class Quora {
 	  
  WebDriver driver = new ChromeDriver();
 	  
-	  driver.get("https://www.quora.com/");
+	  driver.get("https://www.quora.in");
 	 Thread.sleep(1000);
 	  driver.close();
   }
