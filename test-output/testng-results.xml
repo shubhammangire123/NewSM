@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-04T00:40:48 IST" name="Suite" finished-at="2023-08-04T00:41:02 IST" duration-ms="14350">
+    <groups>
+    </groups>
+    <test started-at="2023-08-04T00:40:48 IST" name="Test" finished-at="2023-08-04T00:41:02 IST" duration-ms="14350">
+      <class name="socialMedia.youtube">
+        <test-method signature="utubeweb()[pri:0, instance:socialMedia.youtube@38d8f54a]" started-at="2023-08-04T00:40:53 IST" name="utubeweb" finished-at="2023-08-04T00:40:58 IST" duration-ms="4857" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- utubeweb -->
+      </class> <!-- socialMedia.youtube -->
+      <class name="socialMedia.insta">
+        <test-method signature="instaweb()[pri:0, instance:socialMedia.insta@7d8995e]" started-at="2023-08-04T00:40:48 IST" name="instaweb" finished-at="2023-08-04T00:40:53 IST" duration-ms="5389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instaweb -->
+      </class> <!-- socialMedia.insta -->
+      <class name="socialMedia.fb">
+        <test-method signature="fbweb()[pri:0, instance:socialMedia.fb@49e53c76]" started-at="2023-08-04T00:40:58 IST" name="fbweb" finished-at="2023-08-04T00:41:02 IST" duration-ms="4058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fbweb -->
+      </class> <!-- socialMedia.fb -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
