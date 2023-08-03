@@ -10,7 +10,7 @@ public class Linkdin {
 	  
  WebDriver driver = new ChromeDriver();
 	  
-	  driver.get("https://www.linkedin.com/feed/");
+	  driver.get("https://www.linkedin.com");
 	 Thread.sleep(1000);
 	  driver.close();
   }
